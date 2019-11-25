@@ -23,7 +23,9 @@
         "iconPath": "images/tab-course1.png",
         "selectedIconPath": "images/tab-course2.png"
       }
-    ]
+    ],
+    "color": "#acfdee",
+    "selectedColor": "#eeeeee"
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
